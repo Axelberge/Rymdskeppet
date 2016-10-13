@@ -4,6 +4,9 @@ Jag och min bror programmerar och bygger en rymdskeppssimulator till raspberry p
 Rymdskeppet ska kunna röra sig genom solsystemet och landa på olika planeter.
 Rasberry pi'ns GPIO ska kunna användas för att skapa en kontrollpanel med blinkande lampor och knappar.
 
+## Antaganden skärmsynvinklar
+theta = 0.7610
+phi =   0.5829
 
 Using Git
 =========
